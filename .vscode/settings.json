@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/679b2a83-df80-44c2-a753-a541d7405bbe/resourceGroups/Padilla/providers/Microsoft.Web/sites/ServerAndroid",
+    "appService.deploySubpath": ""
+}
